@@ -84,19 +84,3 @@ This project demonstrates the integration of AWS SageMaker for training and depl
 - Implement real-time predictions and monitoring for deployed endpoints.
 
 - Improve feature engineering to enhance model performance.
-##  Dependencies
-Install the following Python libraries to run this project:
-
-- Python 3.x
-
-- AWS SDK (*boto3*)
-
-- SageMaker SDK (*sagemaker*)
-
-- Scikit-Learn (*sklearn*)
-
-- Pandas (*pandas*)
-
-- Joblib (*joblib*)
-
-- NumPy (*numpy*)
